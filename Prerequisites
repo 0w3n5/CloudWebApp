@@ -1,0 +1,9 @@
+Ensure the following are installed:
+
+Terraform
+
+AWS CLI
+
+AWS account with access key configured (aws configure)
+
+SSH key pair in your AWS region
